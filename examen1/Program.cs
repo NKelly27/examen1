@@ -2,7 +2,9 @@
 
 class Program
 {
-    // Realmente en su mayoria use arreglos, funciones como while, if, else, for ya que a mi parecer son las que más se me facilitan en este momento de mi carrera, aparte de que aún siendo bases en la programacion siguen siendo sumamente utiles. 
+    // Realmente en su mayoria use arreglos, funciones, como while, if, else, for, ya que a mi parecer son las que más se me facilitan
+    // en este momento de mi carrera, aparte de que aún siendo bases en la programacion siguen siendo sumamente utiles. 
+    // ademas de ello dividí las funciones con el fin de no hacer todo junto para evitar errores. 
     static string[] dias = { "Lunes", "Martes", "Miércoles", "Jueves", "Viernes" };
 
     static string[] materias = { "Español", "Matemáticas", "Ciencias", "Ciencias Sociales" };
